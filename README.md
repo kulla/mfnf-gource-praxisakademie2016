@@ -1,5 +1,7 @@
 Script for creating a visualization with [gource](http://gource.io/) of the acitivity at a workshop for [Mathe für Nicht-Freaks](https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks) 2016. Have a look at the Makefile how the video is created.
 
+The final video can be found under [File:Visualisierung des Workshops "Mathe für alle!" auf der Praxisakademie 2016.webm](https://commons.wikimedia.org/wiki/File:Visualisierung_des_Workshops_%22Mathe_f%C3%BCr_alle!%22_auf_der_Praxisakademie_2016.webm)
+
 ## Licensing
 
 * The source files [`create_mfnf_git.py`](create_mfnf_git.py) and [`Makefile`](Makefile) are licensed under a [CC0 Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/). So feel free to use the code in each way you want.
